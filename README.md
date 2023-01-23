@@ -1,4 +1,4 @@
-# Vue-With-.Net
+# Vue
 This respository contains code snippet of Vue js with.net. Its an organization module where user can add organization, see the list, search an organization and edit and
 check details of an organization.
 ![image](https://user-images.githubusercontent.com/116707628/209623795-342a2f40-3a38-4b94-a18c-a299759c1995.png)
